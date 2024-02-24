@@ -19,7 +19,7 @@ def verificar_atualizacao():
         nova_versao = release_info['tag_name']
         url_download = release_info['assets'][0]['browser_download_url']
 
-        versao_atual = '1.0.1'  
+        versao_atual = 'beta'  
         if nova_versao != versao_atual:
             print(f'Nova versão disponível: {nova_versao}')
             return True, url_download
