@@ -18,6 +18,10 @@ O Storm Menu é uma aplicação Python que permite baixar vídeos, áudios e pla
 - Interface intuitiva e amigável.
 - Opção para baixar playlist's do YouTube.
 
+## Windows Defender
+
+- O Windows Defender pode apontar o aplicativo como vírus, porém ignore. Caso esteja com suspeita, verifique os arquivos no próprio repositório.
+
 ## Contribuição
 
 Contribuições são bem-vindas! Se você tiver sugestões de melhorias, novos recursos ou encontrar problemas, sinta-se à vontade para abrir uma issue ou enviar um pull request.
