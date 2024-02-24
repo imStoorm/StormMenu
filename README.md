@@ -2,6 +2,8 @@
 
 O Storm Menu é uma aplicação Python que permite baixar vídeos, áudios e playlists gratuitamente do YouTube. Com uma interface simples e intuitiva, o Storm Menu utiliza a biblioteca PyTube para facilitar o processo de download de conteúdos do YouTube.
 
+![Imagem](https://github.com/imStoorm/StormMenu/main/build/StormMenu/example.png)
+
 ## Instalação
 
 1. Certifique-se de ter o arquivo .exe instalado em seu computador. Você pode instalá-lo clicando [aqui](https://github.com/imStoorm/StormMenu/releases).
