@@ -4,7 +4,7 @@ O Storm Menu é uma aplicação Python que permite baixar vídeos, áudios e pla
 
 ## Instalação
 
-1. Certifique-se de ter o arquivo .exe instalado em seu computador. Você pode instalá-lo clicando [aqui](https://www.python.org/).
+1. Certifique-se de ter o arquivo .exe instalado em seu computador. Você pode instalá-lo clicando [aqui](https://github.com/imStoorm/StormMenu/releases).
 
 ## Utilização
 
